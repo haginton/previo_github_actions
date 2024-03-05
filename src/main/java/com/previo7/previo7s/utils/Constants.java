@@ -11,4 +11,6 @@ public interface Constants {
 
     String MISSING_TOKEN_ERROR_MESSAGE = "Missing or wrong token";
     String TOKEN_EXPIRED_MALFORMED_ERROR_MESSAGE = "Token expired or malformed";
+
+    String TEST_CHANGE = "test change 1";
 }

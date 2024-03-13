@@ -29,7 +29,7 @@ import org.springframework.context.annotation.Configuration;
                 url = "http://localhost:8080",
                 description = "Local Environment"
                 ),@Server(
-                    url = "https://publish-api.onrender.com",
+                    url = "https://prueba1hosting.onrender.com",
                     description = "Production Environment"
                 )
         }
